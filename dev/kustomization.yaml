@@ -5,7 +5,7 @@ images:
   # Ici on ne change pas le repository, seulement la version (newTag)
   - name: ghcr.io/hafbn/spring-petclinic
     newName: ghcr.io/hafbn/spring-petclinic
-    newTag: 4.1.0-SNAPSHOT
+    newTag: 4.1.1
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
